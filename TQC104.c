@@ -16,7 +16,7 @@ int main()
     return 0;
 }
  
-//104解答參考
+/*104解答參考*/
 #include <stdio.h>
 #include <stdlib.h>
  
