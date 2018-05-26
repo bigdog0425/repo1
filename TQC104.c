@@ -1,4 +1,4 @@
-/*TQC C Exam-104*/
+//TQC C Exam-104
 #include <stdio.h>
 #include <stdlib.h>
  
